@@ -1,2 +1,4 @@
 # The-University-of-Sydney-SSP
 Undergraduate students at the University of Sydney in collaboration with The Breaking Good Project 
+
+With the easing of COVID-19 restrictions, Special Studies Program (SSP) students at the University of Sydney, have been able to return to the laboratory this semester to continue their hands-on chemistry training. As part of their laboratory course, students are participating in Breaking Good, working toward the synthesis of six brand new compounds to contribute to the Open Source Malaria (OSM) consortium. The synthesis route was developed by the OSM network who work together openly to speed up and reduce the cost of discovering new medicines for the treatment of malaria. At the end of the program, the new compounds will be tested for their antimalarial activity against the parasites that cause malaria.
